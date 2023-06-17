@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-    <img width="300" src="/img/HeliusLogo.png" alt="Helius Logo">
+    <img width="300" src="/img/HeliusLogo.svg" alt="Helius Logo">
 </p>
 
 <br>
