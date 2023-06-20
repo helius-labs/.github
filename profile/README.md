@@ -39,4 +39,4 @@
     <a href="https://discord.gg/helius"><img height="25" src="/img/social/discord.svg" alt="Discord"></a>
     &nbsp;
 </p>
-s
+
