@@ -5,7 +5,7 @@
 <br>
 
 <h3 align="center">Solana's leading RPCs, APIs, Webhooks, and Data Infrastructure.&nbsp;</h3>
-<h4 align="center">Our powerful APIs save you the headache of dealing with cryptic on-chain data, so you can focus on your product. It's time to build.</h4>
+<h4 align="center">Our platform saves you from the headaches of building on Solana, so you can focus on your product.</h4>
 
 <br>
 
