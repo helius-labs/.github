@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-	<a href="https://discord.gg/helius"><img src="https://img.shields.io/discord/992616840251584633?label=Discord&style=flat-square&color=5a66f6"></a>
+	<a href="https://discord.gg/f4TzaP9aj6"><img src="https://img.shields.io/discord/992616840251584633?label=Discord&style=flat-square&color=5a66f6"></a>
 	&nbsp;
 	<a href="https://twitter.com/heliuslabs"><img src="https://img.shields.io/badge/Twitter-Follow_us-1d9bf0.svg?style=flat-square"></a>
 	&nbsp;
@@ -22,7 +22,7 @@
 <p align="center">
 	<a href="https://github.com/helius-labs"><img height="25" src="/img/social/github.svg" alt="Github"></a>
 	&nbsp;
-	<a href="https://discord.gg/helius"><img height="25" src="/img/social/discord.svg" alt="Discord"></a>
+	<a href="https://discord.gg/f4TzaP9aj6"><img height="25" src="/img/social/discord.svg" alt="Discord"></a>
 	&nbsp;
 	<a href="https://twitter.com/heliuslabs"><img height="25" src="/img/social/twitter.svg" alt="Twitter"></a>
 	&nbsp;
